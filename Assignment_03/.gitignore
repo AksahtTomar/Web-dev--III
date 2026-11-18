@@ -1,9 +1,8 @@
-
-# Ignore node modules
-Assignment_03/node_modules/
+# Ignore node_modules
+node_modules/
 
 # Ignore environment variables
-Assignment_03/.env
+.env
 
 # Ignore logs
 *.log
