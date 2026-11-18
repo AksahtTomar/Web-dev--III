@@ -1,0 +1,10 @@
+
+# Ignore node modules
+Assignment_03/node_modules/
+
+# Ignore environment variables
+Assignment_03/.env
+
+# Ignore logs
+*.log
+
